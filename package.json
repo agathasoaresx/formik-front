@@ -1,0 +1,19 @@
+{
+  "name": "formik-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agathasoaresx/formik-front.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agathasoaresx/formik-front/issues"
+  },
+  "homepage": "https://github.com/agathasoaresx/formik-front#readme"
+}
